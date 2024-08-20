@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://etatfilaravel-production.up.railway.app/'),
+    'url' => env('APP_URL', '0.0.0.0/'),
 
     'asset_url' => env('ASSET_URL'),
 
